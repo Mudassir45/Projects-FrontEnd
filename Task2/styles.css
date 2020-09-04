@@ -1,0 +1,61 @@
+.my-container {
+    margin-top: 100px;
+}
+
+.heading {
+    margin-bottom: 30px;
+}
+
+.image {
+    height: 80%;
+    margin-left: 120px;
+    margin-top: 13px;
+}
+
+.my-form {
+    width: 450px;
+}
+
+.button-custom {
+    width: 100%;
+}
+
+.text-custom {
+    color:  #0475FC;
+}
+.box {
+    background-color: #eae8e8;
+    padding-left: 40px;
+}
+
+.inputWithIcon input[type-text] {
+    padding-left: 40px;
+}
+
+.inputWithIcon {
+    position: relative;
+}
+
+.inputWithIcon i{
+    position: absolute;
+    left: 0;
+    top: 5px;
+    padding: 38px 8px;
+    color: #343a40;
+}
+
+.inputWithLockIcon[type-password] {
+    padding-left: 40px;
+}
+
+.inputWithLockIcon {
+    position: relative;
+}
+
+.inputWithLockIcon i{
+    position: absolute;
+    left: 0;
+    top: 5px;
+    padding: 38px 8px;
+    color: #343a40;
+}
