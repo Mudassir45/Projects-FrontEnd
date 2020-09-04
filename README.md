@@ -1,1 +1,1 @@
-# FrontEnd Templates
+# Front-End Templates
